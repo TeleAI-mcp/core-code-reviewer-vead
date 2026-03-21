@@ -1,2 +1,3 @@
-# core-code-reviewer-vead
+# Core Code Reviewer Vead
+
 A repository to test GitHub automation for issue management.
